@@ -10,5 +10,6 @@
     * [typecho功能测试](/待整理/typecho功能测试.md)
     * [zerotier](/待整理/zerotier.md)
 
-* HTML
+
+* [HTML](/HTML/)
     * [class_01](/HTML/class_01.md)
