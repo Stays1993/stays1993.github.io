@@ -1,6 +1,0 @@
-1. [RubyMetric/chsrc: chsrc 全平台通用换源工具与框架](https://github.com/RubyMetric/chsrc)
-2. [wklken/vim-for-server: vim 服务器简单配置](https://github.com/wklken/vim-for-server)
-3. [qier222/YesPlayMusic: 高颜值的第三方网易云播放器](https://github.com/qier222/YesPlayMusic)
-4. [kingToolbox/WindTerm: SSH 终端](https://github.com/kingToolbox/WindTerm)
-5. [jeessy2/backup-x: 带 Web 界面的数据库/文件备份增强工具](https://github.com/jeessy2/backup-x)
-6. [OpenLinkOS/registry-mirrors: LinkOS 公益运营的 docker.io、gcr.io、ghcr.io、quay.io、registry.k8s.io 镜像仓库加速服务。](https://github.com/OpenLinkOS/registry-mirrors)
