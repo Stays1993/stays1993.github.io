@@ -3,6 +3,7 @@
 3. [PVE 系列-初始化 LXC 容器并安装 Docker](https://gvnote.com/p/pve-lxc-setup-and-docker-install)
 4. [显卡 ROM 文件下载 | TechPowerUp](https://www.techpowerup.com/vgabios/)
 5. [Proxmox ve 中lxc容器开启tun - 群号1978 - 博客园](https://www.cnblogs.com/lynetwork/articles/17271495.html)
+6. [ProxmoxVE本地时间同步 – 指尖风暴 Typhon Finger](https://www.280i.com/tech/11956.html)
 
 ---
 
