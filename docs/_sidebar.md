@@ -8,6 +8,7 @@
     * [PVE](/待整理/PVE.md)
     * [zerotier](/待整理/zerotier.md)
     * [markdown功能测试](/待整理/markdown功能测试.md)
+    * [AdGuardHome部署](AdGuardHome部署.md)
 
 
 * [HTML](/HTML/)
