@@ -3,7 +3,7 @@
 1. **[ZeroTier](https://my.zerotier.com/)**
 2. [ZeroTier 实现内网穿透详细教程，其实 5 分钟就可以搞定-CSDN 博客](https://blog.csdn.net/weixin_44786530/article/details/128283075) [文章更新日期 2024-03-19]
 3. [群晖 DSM7.x 使用 ZeroTier 套件的简单办法 - 我不是矿神](https://imnks.com/3175.html)
-4.
+4. [NAS内网穿透方案之ZeroTier方案 - 知乎](https://zhuanlan.zhihu.com/p/710321822)
 5. [linux 系统的 ubuntu 下 zerotier 的基本使用教程\_ubuntu zerotier-CSDN 博客](https://blog.csdn.net/awzs7758520/article/details/130127967)
 6. [通过 ZeroTier 异地组网 实现远程访问局域网 | ZhiChao's Blog](https://zhichao.org/posts/zerotier#%E9%85%8D%E7%BD%AE%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%B7%AF%E7%94%B1)
 
