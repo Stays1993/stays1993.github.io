@@ -6,6 +6,8 @@
 4. [NAS内网穿透方案之ZeroTier方案 - 知乎](https://zhuanlan.zhihu.com/p/710321822)
 5. [linux 系统的 ubuntu 下 zerotier 的基本使用教程\_ubuntu zerotier-CSDN 博客](https://blog.csdn.net/awzs7758520/article/details/130127967)
 6. [通过 ZeroTier 异地组网 实现远程访问局域网 | ZhiChao's Blog](https://zhichao.org/posts/zerotier#%E9%85%8D%E7%BD%AE%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%B7%AF%E7%94%B1)
+7. [搭建自己的Zerotier Moon和管理后台 - 零散坑 - Sliamb的零散日常和填坑(╯‵□′)╯︵┻━┻](https://blog.03k.org/post/zerotier-moon-ui.html)
+8. [ZeroTier 创建私有服务器节点(Moon节点)](https://wang.mx/posts/zerotier-creating-moons)
 
 ## 下载安装 `Deepin V23专属`
 
