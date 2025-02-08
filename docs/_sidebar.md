@@ -10,6 +10,7 @@
     * [markdown功能测试](/待整理/markdown功能测试.md)
     * [AdGuardHome部署](/待整理/AdGuardHome部署.md)
     * [rsync_bak](/待整理/rsync_bak.md)
+    * [ubuntu](/待整理/ubuntu.md)
 
 
 * [HTML](/HTML/)
